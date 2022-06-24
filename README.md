@@ -1,2 +1,2 @@
-# andriym.github.io
-A Website
+# Design
+Repository of andriym.github.io
